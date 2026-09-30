@@ -528,7 +528,7 @@ This repository should contain:
 └── 📄 Calculation(img).pdf
 ```
 
-The project brief specifies that the GitHub repository should contain the PDF, dataset if applicable, notebook, and README.
+## Presentation video ---  https://drive.google.com/file/d/1guSvGpr2MULRp_dcvdJ_RWdzkGfGzgUj/view?usp=sharing
 
 ---
 
